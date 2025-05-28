@@ -1,4 +1,7 @@
 # dev-briefs 🗂️
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zenithx31.dev-briefs)
+<br>
+<br>
 
 이 레포지토리는 개발자에게 유용한 외부 정보를 간단하게 요약해 정리한 공간입니다.  
 컨퍼런스 일정, 기술 뉴스, IT 서적 요약 등 다양한 콘텐츠를 담고 있습니다.
